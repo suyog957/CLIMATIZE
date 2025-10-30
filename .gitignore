@@ -1,0 +1,61 @@
+<<<<<<< HEAD
+# Ignore environment variables
+.env
+.env.*
+
+# Ignore Python cache and bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+.env/
+.venv/
+
+# Ignore logs and local reports
+reports/
+logs/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE settings
+.vscode/
+.idea/
+
+# Ignore Docker build artifacts
+*.tar
+=======
+# Ignore environment variables
+.env
+.env.*
+
+# Ignore Python cache and bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+.env/
+.venv/
+
+# Ignore logs and local reports
+reports/
+logs/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE settings
+.vscode/
+.idea/
+
+# Ignore Docker build artifacts
+*.tar
+>>>>>>> 998ba09 (Initial commit - CLIMATIZE multi-agent solar system)
